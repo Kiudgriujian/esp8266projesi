@@ -17,4 +17,4 @@ Slave Kart Düzeni: https://prnt.sc/074GdagZCUwe
 
 Önemli Not 1: İki tarafın mac adress kısmına da slave'in mac adress'i girilecek.
 
-Önemli Not 2: Aykut kardeşime selamlar seviliyosun rican emrimizdir :)
+Önemli Not 2: Aykut kardeşime selamlar seviliyosun rican emirdir :)
