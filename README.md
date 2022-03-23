@@ -8,3 +8,5 @@ Bize Lazım Olan Şeyler Şunlar:
 İkinci adım ise attığım kart düzenini sırasına dikkat ederek kablolama işlemini yapacaksın
 Master Kart Düzeni: https://prnt.sc/ufMqErU-vOqw
 Slave Kart Düzeni: https://prnt.sc/074GdagZCUwe
+Önemli Not 1: İki tarafın mac adress kısmına da slave'in mac adress'i girilecek.
+Önemli Not 2: Aykut kardeşime selamlar seviliyosun rican emrimizdir :)
